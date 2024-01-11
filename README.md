@@ -37,6 +37,6 @@
 
 ###
 
-[![Snake Game](https://github.com/GabrielLukaA/GabrielLukaA/actions/workflows/blank.yml/badge.svg)](https://github.com/GabrielLukaA/GabrielLukaA/actions/workflows/blank.yml)
+[![Snake Game](https://github.com/GabrielLukaA/GabrielLukaA/actions/workflows/snake.yml/badge.svg)](https://github.com/GabrielLukaA/GabrielLukaA/actions/workflows/snake.yml)
 
 ###
