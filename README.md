@@ -37,6 +37,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GabrielLukaA/GabrielLukaA/output/snake.svg" alt="Snake animation" />
+[![Snake Game](https://github.com/GabrielLukaA/GabrielLukaA/actions/workflows/blank.yml/badge.svg)](https://github.com/GabrielLukaA/GabrielLukaA/actions/workflows/blank.yml)
 
 ###
