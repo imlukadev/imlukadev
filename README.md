@@ -37,6 +37,6 @@
 
 ###
 
-![snake gif](https://github.com/GabrielLukaA/GabrielLukaA/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/GabrielLukaA/GabrielLukaA/output/snake.svg" alt="Snake animation" />
 
 ###
