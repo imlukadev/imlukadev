@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estudando TypeScript e ReactJs</p>
+<p align="left">📚 Atualmente estudando TypeScript e NextJs</p>
 
 ###
 
