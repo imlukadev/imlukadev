@@ -1,4 +1,4 @@
-<h1 align="left">Oi! Eu sou o Gabriel Luka, seja bem vindo!</h1>
+<h1 align="left">Oi! Eu sou o Luka, seja bem vindo!</h1>
 
 ###
 
